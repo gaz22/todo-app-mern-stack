@@ -1,12 +1,13 @@
-# todo-app-mern-stack
-Basic ToDo App using MERN stack (MongoDB, Express, React, and Node.js)
-ToDo list is sorted from High - Low
+# todo-app-mern-stack<br/>
+Basic ToDo App using MERN stack (MongoDB, Express, React, and Node.js)<br/>
+ToDo list is sorted from High - Low <br/>
+// running backend server <br/>
+cd backend<br/>
+npm install<br/>
+nodemon server<br/>
 
-cd backend
-npm install
-nodemon server
-
-cd..
-cd frontend
-npm install
-npm start
+// running front-end server <br/>
+cd..<br/>
+cd frontend<br/>
+npm install<br/>
+npm start<br/>
